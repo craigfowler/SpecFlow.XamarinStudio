@@ -12,6 +12,7 @@
     <RootNamespace>XamarinStudio.TechTalk.SpecFlow</RootNamespace>
     <AssemblyName>XamarinStudio.TechTalk.SpecFlow</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <CreatePackage>True</CreatePackage>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>

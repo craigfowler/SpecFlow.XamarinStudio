@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Addin namespace="XamarinStudio.TechTalk.SpecFlow" id="XamarinStudio.TechTalk.SpecFlow" name="XamarinStudio.TechTalk.SpecFlow" author="Mike Jones" copyright="ABEL Learinng Limited" description="XamarinStudio.TechTalk.SpecFlow" category="IDE extensions" version="1.0">
     <Dependencies>
-        <Addin id="::MonoDevelop.Core" version="4.0" />
-        <Addin id="::MonoDevelop.Ide" version="4.0" />
+        <Addin id="::MonoDevelop.Core" version="7.4" />
+        <Addin id="::MonoDevelop.Ide" version="7.4" />
     </Dependencies>
     <Runtime>
     </Runtime>
