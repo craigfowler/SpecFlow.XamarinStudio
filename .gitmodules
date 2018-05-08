@@ -1,6 +1,6 @@
 [submodule "SpecFlow.VisualStudio"]
 	path = SpecFlow.VisualStudio
-	url = https://github.com/techtalk/SpecFlow.VisualStudio.git
+	url = https://github.com/craigfowler/SpecFlow.VisualStudio.git
 [submodule "SpecFlow"]
 	path = SpecFlow
-	url = https://github.com/techtalk/SpecFlow.git
+	url = https://github.com/craigfowler/SpecFlow.git
