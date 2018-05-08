@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinStudio.TechTalk.SpecFlow", "XamarinStudio.TechTalk.SpecFlow.csproj", "{CC567007-C48F-44F9-95D8-FC56FE2DA330}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechTalk.SpecFlow.Generator", "SpecFlow\TechTalk.SpecFlow.Generator\TechTalk.SpecFlow.Generator.csproj", "{453D8014-B6CD-4E86-80A8-D59F59092334}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechTalk.SpecFlow.Generator", "SpecFlow\Generator\TechTalk.SpecFlow.Generator.csproj", "{453D8014-B6CD-4E86-80A8-D59F59092334}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechTalk.SpecFlow.IdeIntegration", "SpecFlow.VisualStudio\IdeIntegration\TechTalk.SpecFlow.IdeIntegration.csproj", "{44D52C1B-0ABC-44B6-8EB8-0F754E264226}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechTalk.SpecFlow.Parser", "SpecFlow\TechTalk.SpecFlow.Parser\TechTalk.SpecFlow.Parser.csproj", "{7CCEF6D6-FC17-422E-9BED-EDD752B6496F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechTalk.SpecFlow.Parser", "SpecFlow\Parser\TechTalk.SpecFlow.Parser.csproj", "{7CCEF6D6-FC17-422E-9BED-EDD752B6496F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechTalk.SpecFlow.Utils", "SpecFlow\TechTalk.SpecFlow.Utils\TechTalk.SpecFlow.Utils.csproj", "{C0AF4A43-0C3B-47C7-86DE-79FB632B1453}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechTalk.SpecFlow.Utils", "SpecFlow\Utils\TechTalk.SpecFlow.Utils.csproj", "{C0AF4A43-0C3B-47C7-86DE-79FB632B1453}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechTalk.SpecFlow", "SpecFlow\TechTalk.SpecFlow\TechTalk.SpecFlow.csproj", "{413EE28C-4F89-4C6F-BA1E-2CDEE4CD43B4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechTalk.SpecFlow", "SpecFlow\Runtime\TechTalk.SpecFlow.csproj", "{413EE28C-4F89-4C6F-BA1E-2CDEE4CD43B4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechTalk.SpecFlow.RemoteAppDomain", "SpecFlow.VisualStudio\TechTalk.SpecFlow.RemoteAppDomain\TechTalk.SpecFlow.RemoteAppDomain.csproj", "{8B5402B9-7580-4AA3-9525-6C4563EF0623}"
 EndProject

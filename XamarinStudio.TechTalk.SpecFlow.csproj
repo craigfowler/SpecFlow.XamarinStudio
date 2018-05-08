@@ -118,7 +118,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\SpecFlow\Generator\TechTalk.SpecFlow.Generator.csproj">
+    <ProjectReference Include="SpecFlow\Generator\TechTalk.SpecFlow.Generator.csproj">
       <Project>{453D8014-B6CD-4E86-80A8-D59F59092334}</Project>
       <Name>TechTalk.SpecFlow.Generator</Name>
     </ProjectReference>
